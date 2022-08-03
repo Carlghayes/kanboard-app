@@ -1,0 +1,1 @@
+This project, I deployed a Kanboard Application. It's intially written in PHP, so I configured the LAMP stack for its production.
